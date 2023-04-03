@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Camille Durthaller-Renard
-- 👀 I’m interested in Web development, especially front-end development
-- 🌱 I’m currently learning how to use web servers like Apache
-- 💞️ I’m looking to collaborate on harmonious website designs
+- 👀 I’m interested in Web and mobile development, both front and back-end
+- 🌱 I’m currently working on a React Native mobile app for an international client
+- 💞️ I’m looking to collaborate on meaningful and creative projects
 - 📫 Contact me : camilledr10@gmail.com
 
