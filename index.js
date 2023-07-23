@@ -1,8 +1,6 @@
 const { promises: fs } = require('fs');
 const readme = require('./readme');
 
-const today = new Date();
-
 function generateNewREADME() {
   const readmeRow = readme.split('\n');
 
@@ -32,7 +30,17 @@ function getSigning() {
 }
 
 function getTodayDate() {
-  return today.toDateString();
+  const currentDate = new Date();
+
+  const options = {
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit'
+  };
+
+  return currentDate.toLocaleString('en-US', options);
 }
 
 const findIdentifierIndex = (rows, identifier) =>
