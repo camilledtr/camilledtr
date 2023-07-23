@@ -1,0 +1,22 @@
+{
+  "name": "camilledtr",
+  "version": "1.0.0",
+  "description": "CamCodex's readme content updating on a daily basis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilledtr/camilledtr.git"
+  },
+  "author": "camilledtr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilledtr/camilledtr/issues"
+  },
+  "homepage": "https://github.com/camilledtr/camilledtr#readme",
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  }
+}
