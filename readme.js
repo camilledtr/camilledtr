@@ -1,6 +1,6 @@
 module.exports = `### Hi there 👋
 
-Welcome on Cam Codex 🩵 Github profile. I've started learning Web Development 2 years ago, but I've been coding for 5 years now.
+Welcome on Cam Codex 🩵 Github profile. I've started learning Web Development 2 years ago, and I've been coding for 5 years now.
 
 I love trying new things and touch everything, from web & mobile development, web scraping, to building automation scripts or database models.
 
