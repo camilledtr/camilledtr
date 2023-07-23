@@ -35,9 +35,7 @@ function getTodayDate() {
   const options = {
     weekday: 'long',
     month: 'long',
-    day: 'numeric',
-    hour: '2-digit',
-    minute: '2-digit'
+    day: 'numeric'
   };
 
   return currentDate.toLocaleString('en-US', options);
