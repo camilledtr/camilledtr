@@ -4,11 +4,13 @@ Welcome on Cam Codex 🩵 Github profile. I've started learning Web Development 
 
 I love trying new things and touch everything, from web & mobile development, web scraping, to building automation scripts or database models.
 
+### My portfolio
+
+[![Portfolio](./assets/portfolio_qr.png/)](https://camilledurthallerrenard.com/)
+
 ### Contact me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://twitter.com/CamCodex) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CamCodex)
-
-[![Codingame](https://img.shields.io/badge/Codingame-F6C915?style=for-the-badge&logo=codingame&logoColor=black)](https://www.codingame.com/profile/f6e2135424bacf9ed74821de8cf10e906060264)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:camilledr10@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CamCodex) [![Codingame](https://img.shields.io/badge/Codingame-F6C915?logo=codingame&logoColor=black)](https://www.codingame.com/profile/f6e2135424bacf9ed74821de8cf10e906060264)
 
 #### Frontend
 
@@ -16,8 +18,8 @@ I love trying new things and touch everything, from web & mobile development, we
 
 #### Backend
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Others
 
@@ -33,9 +35,9 @@ I love trying new things and touch everything, from web & mobile development, we
 
 <img src="https://profile-counter.glitch.me/camilledtr/count.svg" />
 
-Added on `23 July 2023`
+Added on `23 Jul 2023`
 
-Last update on Sunday, July 23 at 09:50 PM
+Last update on `Sunday, July 23 at 10:14 PM`.
 
-🤖 This README.md is updated automatically each day.
+🤖 This README.md is updated automatically each day. 
 It has been inspired by Melvyn's work. Go support his youtube channel: @Melvynx.
