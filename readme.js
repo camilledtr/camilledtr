@@ -12,7 +12,7 @@ I love trying new things and touch everything, from web & mobile development, we
 
 ### My portfolio
 
-[![Portfolio](./assets/portfolio_qr.png/)](https://camilledurthallerrenard.com/)
+[![Portfolio](./assets/portfolio_qr.jpg/)](https://camilledurthallerrenard.com/)
 
 ##
 
