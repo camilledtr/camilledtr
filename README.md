@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 Welcome on Cam Codex 🩵 Github profile. I've been coding for 5 years and I've been learning Web Development for over a year now.
 
