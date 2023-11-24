@@ -49,7 +49,7 @@ I love trying new things and touch everything, from web & mobile development, we
 
 Added on `23 Jul 2023`
 
-Last update on `Thursday, November 23`.
+Last update on `Friday, November 24`.
 
 🤖 This README.md is updated automatically each day. 
 It has been inspired by Melvyn's work. Go support his youtube channel: @Melvynx.
