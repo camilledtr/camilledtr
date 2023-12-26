@@ -51,5 +51,4 @@ Added on \`23 Jul 2023\`
 
 Last update on \`<#today_date>\`.
 
-<#signing>
 `;
