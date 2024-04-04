@@ -1,6 +1,6 @@
 module.exports = `### Hi 👋
 
-Welcome on my profile! I've been coding for 5 years and I've been learning Web Development for over a year now.
+Welcome on my profile! I've been coding for 5 years and I've been actively engaged in the field of Web Development for more than a year now.
 
 I love trying new things and touch everything, from web & mobile development, web scraping, to building automation scripts or database models.
 
