@@ -42,5 +42,5 @@ i love trying new things and touch everything, from web & mobile development, we
 
 added on `23 Jul 2023`
 
-last update on `Tuesday, September 17`.
+last update on `Wednesday, September 18`.
 
