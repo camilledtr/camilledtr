@@ -1,7 +1,7 @@
 ### hi
 
 i'm a fullstack web developer.
-i love trying new things and touch everything, from web & mobile development, web scraping, to building automation scripts or database models.
+i love trying new things and diving into everything, from web & mobile development, web scraping, to building automation scripts or database models.
 
 ### contact me
 
