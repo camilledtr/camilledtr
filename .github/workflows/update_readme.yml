@@ -32,6 +32,7 @@ jobs:
             node index.js > README.md
           else
             echo "Skipping the update of README.md file..."
+          fi
         env:
           CI: true
       - name: commit changes
