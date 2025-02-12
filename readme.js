@@ -5,7 +5,7 @@ i love trying new things and touch everything, from web & mobile development, we
 
 ### contact me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:camilledr10@gmail.com)
+[camilledr10@gmail.com](mailto:camilledr10@gmail.com)
 [![Codingame](https://img.shields.io/badge/Codingame-F6C915?logo=codingame&logoColor=black)](https://www.codingame.com/profile/f6e2135424bacf9ed74821de8cf10e906060264)
 
 ##
