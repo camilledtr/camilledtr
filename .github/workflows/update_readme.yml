@@ -1,10 +1,14 @@
-name: Update README every day
+name: Update README 1-5 times every day 🤪
 
 on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: '01 0 * * *'
+    - cron: '0 0 * * *'   # Runs at midnight
+    - cron: '0 6 * * *'   # Runs at 6 AM
+    - cron: '0 12 * * *'  # Runs at noon
+    - cron: '0 18 * * *'  # Runs at 6 PM
+    - cron: '0 23 * * *'  # Runs at 11 PM
 
 jobs:
   update-readme:
@@ -18,9 +22,16 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
-      - name: Update README.md file
+      - name: Run randomly
         run: |
-          node index.js > README.md
+          RANDOM_NUMBER=$((RANDOM % 5 + 1))
+
+          # Decide whether to run the job based on the random number
+          if [ $RANDOM_NUMBER -le 3 ]; then
+            echo "Updating README.md file..."
+            node index.js > README.md
+          else
+            echo "Skipping the update of README.md file..."
         env:
           CI: true
       - name: commit changes
