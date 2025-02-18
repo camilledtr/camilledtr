@@ -1,3 +1,29 @@
+const getEmojiByHour = () => {
+  const hour = new Date().getHours();
+
+  if (hour >= 0 && hour < 6) {
+    return "🌝";
+  } else if (hour >= 6 && hour < 12) {
+    return "👩‍💻";
+  } else if (hour >= 12 && hour < 14) {
+    return "🍽️";
+  } else if (hour >= 14 && hour < 18) {
+    return "🌤️";
+  } else if (hour >= 18 && hour < 23) {
+    return "📺";
+  } else {
+    return "🌙";
+  }
+}
+
+const getTime = () => {
+  const now = new Date();
+  const hour = now.getHours();
+  const period = hour >= 12 ? 'PM' : 'AM';
+
+  return `${hour} ${period}`
+}
+
 module.exports = `### hi
 
 i'm a fullstack web developer.
@@ -48,6 +74,6 @@ i love trying new things and diving into everything, from web & mobile developme
 
 added on \`23 Jul 2023\`
 
-last update on \`<#today_date>\`.
+last update on \`<#today_date>\` at ${getTime()} ${getEmojiByHour()}.
 
 `;
