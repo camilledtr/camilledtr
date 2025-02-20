@@ -1,4 +1,4 @@
-name: Update README 1-5 times every day 🤪
+name: Update README 0-6 times every day 🤪
 
 on:
   push:
@@ -7,6 +7,7 @@ on:
     - cron: '0 0 * * *'   # Runs at midnight
     - cron: '0 6 * * *'   # Runs at 6 AM
     - cron: '0 12 * * *'  # Runs at noon
+    - cron: '0 14 * * *'  # Runs at 2 PM
     - cron: '0 18 * * *'  # Runs at 6 PM
     - cron: '0 23 * * *'  # Runs at 11 PM
 
@@ -22,12 +23,12 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
-      - name: Run randomly
+      - name: Run with a 50% chance
         run: |
-          RANDOM_NUMBER=$((RANDOM % 5 + 1))
+          RANDOM_NUMBER=$((RANDOM % 2))
 
           # Decide whether to run the job based on the random number
-          if [ $RANDOM_NUMBER -le 3 ]; then
+          if [ $RANDOM_NUMBER -eq 0 ]; then
             echo "Updating README.md file..."
             node index.js > README.md
           else
