@@ -40,7 +40,7 @@ i love trying new things and diving into everything, from web & mobile developme
 ![](https://github-readme-streak-stats.herokuapp.com/?user=camilledtr&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats-avv0gdc8i-camilledtr.vercel.app/api/top-langs/?username=camilledtr&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-#### visitor count
+#### visit count
 
 <img src="https://profile-counter.glitch.me/camilledtr/count.svg" />
 
