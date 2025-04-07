@@ -29,6 +29,7 @@ i love trying new things and diving into everything, from web & mobile developme
 ####
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ##
 
@@ -48,5 +49,5 @@ i love trying new things and diving into everything, from web & mobile developme
 
 added on `23 Jul 2023`
 
-last update on `Monday, April 7` at 1 AM 🌝.
+last update on `Monday, April 7` at 8 AM 👩‍💻.
 
