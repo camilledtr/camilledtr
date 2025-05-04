@@ -49,5 +49,5 @@ i love trying new things and diving into everything, from web & mobile developme
 
 added on `23 Jul 2023`
 
-last update on `Saturday, May 3` at 23 PM 🌙.
+last update on `Sunday, May 4` at 1 AM 🌝.
 
