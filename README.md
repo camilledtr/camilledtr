@@ -1,15 +1,14 @@
-### Hi
 
 I'm a software engineer working at @IMT.
 I love diving into new things, from web & mobile development, to building automation scripts or database models.
 
-### contact me
+### Contact me
 
 [camilledr10@gmail.com](mailto:camilledr10@gmail.com)
 
 ##
 
-### my stats
+### My stats
 
 [![wakatime](https://wakatime.com/badge/user/77e2d3cb-9d2f-4ba4-b727-e3eac50804fc.svg?style=for-the-badge)](https://wakatime.com/@77e2d3cb-9d2f-4ba4-b727-e3eac50804fc)
 
@@ -19,7 +18,7 @@ I love diving into new things, from web & mobile development, to building automa
 
 #
 
-added on `23 Jul 2023`
+Added on `23 Jul 2023`
 
-last update on `Monday, December 15` at 18 PM 📺.
+Last update on `Monday, December 15` at 18 PM 📺.
 
