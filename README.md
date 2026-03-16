@@ -20,5 +20,5 @@ I love diving into new things, from web & mobile development, to building automa
 
 Added on `23 Jul 2023`
 
-Last update on `Sunday, March 15` at 23 PM 🌙.
+Last update on `Monday, March 16` at 2 AM 🌝.
 
